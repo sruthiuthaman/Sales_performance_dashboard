@@ -32,7 +32,7 @@ This project analyzes product-wise and region-wise sales using SQL, Excel, and P
 
 ## 📸 Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](Dashboard-preview.pdf)
 
 ---
 
